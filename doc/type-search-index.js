@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Default","l":"Lottery"},{"p":"Default","l":"lotteryCalculations"},{"p":"Default","l":"Menu"},{"p":"Default","l":"Testing"},{"p":"Default","l":"userNumbers"}]
